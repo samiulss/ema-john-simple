@@ -1,0 +1,23 @@
+.header img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.header nav{
+    background-color: #333;
+    line-height: 40px;
+}
+.header nav a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 15px;
+    display: inline-block;
+    padding: 5px;
+}
+.header nav a:hover{
+    background-color: aliceblue;
+    color: #333;
+}
+.nav-link{
+    margin-left: 50px;
+}
